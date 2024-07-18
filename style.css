@@ -1,0 +1,224 @@
+body {
+    background-color: #ffffff;
+    margin: 0px;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+
+.kero {
+    background-color:
+        #000000 border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.logo {
+
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+}
+
+.texxto {
+    padding left: ;
+    : 100px;
+}
+
+.header-links a {
+    padding: 100 100px;
+    color: #ffee02;
+    padding: 20px 20px;
+    text-decoration: none;
+    border-radius: 17px;
+    background-color: black;
+}
+
+.header-links a:hover {
+    font-style: inherit;
+    border-radius: 17px;
+    background-color: #ffee02;
+    color: #000000;
+    padding: 20px 20px;
+}
+
+.header-links button {
+    background-color: #ffee02;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 20px 20px;
+    border-radius: 15px;
+}
+
+.header-links button:hover {
+    color: #ffee02;
+    background-color: rgb(0, 0, 7);
+    padding: 20px 20px;
+    border-radius: 15px;
+
+}
+
+.landing-page {
+
+    background-color: #ffee02;
+    padding: 10px 230px;
+    display: flex;
+    justify-content: space-between;
+color: #ffffff;
+    align-items: center;
+    border-radius: 20px
+}
+
+.brekingbad {
+
+
+    border-radius: 18px;
+    width: 300px;
+}
+
+.teext {
+    color: rgb(0, 0, 0);
+}
+
+.teeext {
+    color: #4e4e4e;
+}
+
+.sese input {
+
+    text-decoration: none;
+    border-radius: 40px;
+    outline: none;
+    padding-left: 8px;
+    padding-right: 8px;
+    height: 50px;
+    width: 300px;
+
+
+}
+
+.SEARCH {
+border-radius: 20px;
+border: 2px #003c74;
+    border: none;
+    background-color: #ffee02;
+position: absolute;
+left: 500px;
+height: 54px;
+bottom: 192px;
+}
+
+.SEARCH {
+    border-radius: 20px;
+    border: 2px #ffffff;
+        border: none;
+        color: #ffffff;
+        background-color: #000000;
+    position: absolute;
+    left: 500px;
+    height: 54px;
+    bottom: 192px;
+    }
+
+    
+    
+    .SEARCH:hover {
+        border-radius: 20px;
+        border: 2px #ffffff;
+            border: none;
+            background-color: #303030;
+        position: absolute;
+        left: 500px;
+        height: 54px;
+        bottom: 192px;
+        color: #a8a8a8;
+
+        
+        }
+
+
+        
+       .land-page-width {
+
+width: 400px;
+
+       }     
+
+       .trend {
+justify-content: center;
+display:flex ;
+font-size: 60px;
+        padding: 20px 20px
+        position: relative;
+    left: 200px;
+    
+       }
+
+       .the-best
+       {
+        justify-content: center;
+        display:flex ;
+        font-size: 200px;
+                padding: 20px 20px
+                position: relative;
+            left: 200px;
+            
+               }
+
+               
+               .card {
+                position: absolute;
+                left: 80px;
+                border-radius: 20px;
+                width: 400px;
+               }
+
+               .card-info {
+                justify-content: space-between;
+height: 50px;
+                width: 300px;
+                background-color:#ffee02; 
+                position: absolute;
+                left: 100px;
+                border-radius: 20px;
+                display: flex;
+
+            
+        
+               }
+
+               .card-info img {
+                position: absolute;
+                border-radius: 20px;
+                left: 240px;
+                bottom: 3px;
+                width: 60px;
+               }
+
+
+.imaage {
+position: absolute;
+    left: 100px;
+    border-radius: 25px;
+    width: 300px;
+}
+
+.card2 {
+position: absolute;
+left: 550px;}
+
+.METH { 
+   font-size: 45px;
+   position: absolute;
+bottom: -50px;   
+left: 80px;
+}
+
+.ew { background-color: whitesmoke;}
